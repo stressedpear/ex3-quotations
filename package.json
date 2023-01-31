@@ -1,0 +1,20 @@
+{
+  "name": "ex3-quotations",
+  "version": "1.0.0",
+  "description": "For DIG4639C Ex.3: Creating a Git Repo from Scratch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stressedpear/ex3-quotations.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stressedpear/ex3-quotations/issues"
+  },
+  "homepage": "https://github.com/stressedpear/ex3-quotations#readme"
+}
