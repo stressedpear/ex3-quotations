@@ -1,4 +1,5 @@
 {
+  "type":"module",
   "name": "ex3-quotations",
   "version": "1.0.0",
   "description": "For DIG4639C Ex.3: Creating a Git Repo from Scratch",
